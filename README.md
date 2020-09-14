@@ -1,5 +1,7 @@
 # beer-champ-vue
 
+![beerwulf](/src/assets/logo.png)
+
 ##Frameworks and tools:
 Tech stack:
 - Vue
