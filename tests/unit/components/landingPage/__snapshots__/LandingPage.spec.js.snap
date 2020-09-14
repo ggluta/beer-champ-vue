@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gallery test SHOULD render default WHEN normally instantiated 1`] = `
+<v-container id="landing-page" fluid="" class="pa-0">
+  <v-img src="../../assets/logo.png"></v-img>
+  <div class="my-5">
+    <dropdownmenu-stub></dropdownmenu-stub>
+    <gallery-stub></gallery-stub>
+  </div>
+</v-container>
+`;

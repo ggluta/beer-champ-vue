@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gallery test SHOULD render default WHEN normally instantiated 1`] = `
+<div>
+  <v-row justify="center" class="justify-space-around">
+    <div>
+      <v-select label="Beer name" value="Brand Dubbelbock" solo=""></v-select>
+      <!---->
+    </div>
+    <div>
+      <v-select label="Beer style" value="Bock Beer" solo=""></v-select>
+      <!---->
+    </div>
+    <div>
+      <v-select label="Beer color" value="yellow" solo=""></v-select>
+      <!---->
+    </div>
+  </v-row>
+</div>
+`;

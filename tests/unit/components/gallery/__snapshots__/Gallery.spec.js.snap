@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gallery test SHOULD render default WHEN normally instantiated 1`] = `
+<v-container id="gallery" fluid="">
+  <v-layout row="" wrap="">
+    <v-flex lg3="" md4="" sm6="" xs12="">
+      <v-card class="ma-5 pa-lg-5">
+        <v-img contain="" height="300px" src="https://www.beerwulf.com/globalassets/brand-dubbelbock.3_1_1.png"></v-img>
+        <v-card-title class="text-md-h5 text-break">Brand Dubbelbock</v-card-title>
+        <v-card-title>£ 2.39</v-card-title>
+        <v-card-text class="text--primary">
+          <div class="text-md-h6">Bock Beer</div>
+          <div class="text-md-body-1">
+            Alcohol percentage: 7.5
+          </div>
+        </v-card-text>
+      </v-card>
+    </v-flex>
+  </v-layout>
+</v-container>
+`;
