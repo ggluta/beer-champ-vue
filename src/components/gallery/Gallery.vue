@@ -52,8 +52,6 @@ export default {
 <style scoped>
   .text-ellipsis {
     text-overflow: ellipsis;
-
-    /* Required for text-overflow to do anything */
     white-space: nowrap;
     overflow: hidden;
   }

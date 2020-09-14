@@ -60,7 +60,7 @@ export default {
     ...mapMutations('menu', ['setTitle', 'resetTitle', 'setStyle', 'resetStyle', 'setColor', 'resetColor']),
   },
   computed: {
-    ...mapState('menu', ['appData', 'filteredAppData', 'title', 'style', 'color', 'titleSelected', 'styleSelected', 'colorSelected']),
+    ...mapState('menu', ['title', 'style', 'color', 'titleSelected', 'styleSelected', 'colorSelected']),
     ...mapGetters('menu', ['getTitles', 'getColors', 'getStyles', 'getImages',
     ]),
   },
