@@ -1,6 +1,6 @@
 # BEERWULF ASSIGNMENT - BEER CHAMP
 
-![beerwulf](./src/assets/readme-logo.png)
+![beerwulf](./src/assets/beer.png)
 
 ## Frameworks and tools:
 Tech stack:
