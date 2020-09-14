@@ -1,5 +1,7 @@
 # BEERWULF ASSIGNMENT - BEER CHAMP
 
+![beerwulf](./src/assets/logo.png)
+
 ## Frameworks and tools:
 Tech stack:
 - Vue
