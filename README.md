@@ -76,5 +76,8 @@ If I had more time on my hands to play with this codebase, I'd invest it in the 
     - some components need to be further adjusted (ex: dynamic height of the cards)
     - the app layout is responsive due but it still has some pitfalls
         - logo scaling accordingly to viewports
+- logic 
+    - should have different data sources between dropdowns and gallery so that the dropdowns
+    can show all the values even after filtering
         
 
